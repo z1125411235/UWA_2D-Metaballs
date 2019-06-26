@@ -2,4 +2,6 @@
 
 UWA網址___https://lab.uwa4d.com/lab/5b5cd4a7d7f10a201fe9767f?fbclid=IwAR12g9IVrXI-tTryKPQoDPGwyNL22dIZv6GG8FY0S6w7rrbykxp6UZT_BCM
 
-Github網址___https://github.com/z1125411235/UWA_2DMetaballs
+本人Github網址___https://github.com/z1125411235/UWA_2DMetaballs
+
+官方Github網址___https://github.com/HuvaaKoodia/2DMetaballs
